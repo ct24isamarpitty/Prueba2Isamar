@@ -1,0 +1,12 @@
+body {background-color: blueviolet;}
+h1{ color: aliceblue;
+    text-align: center;}
+    
+.parrafos{ text-align: center;
+color: aliceblue;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+margin: 20px;}
+
+img{ display: block;
+margin-left: auto;
+margin-right: auto;}
